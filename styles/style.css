@@ -1,0 +1,70 @@
+/* Centres and sets font sizes for Headeing Text
+h1, {
+    font-size: 60px;
+    text-align: center;
+  }
+*/
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+  text-align: center;
+}
+
+
+/* This is a comment in CSS*/
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    }
+
+h3 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  text-align: center;
+}
+
+/* Centres the paragraphs*/
+p {
+  font-size: 25px;
+  text-align: center;
+}
+
+a {
+  font-size: 25px;
+  text-align: center;
+}
+
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+/* centre align the list*/
+li {
+  font-size: 25px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+/* set background colour*/
+html {
+  background-color: #00539f;
+}
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
